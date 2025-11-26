@@ -1,0 +1,2 @@
+[console_scripts]
+balecore = balecore.__main__:main
